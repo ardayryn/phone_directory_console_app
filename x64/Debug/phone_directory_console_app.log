@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Arda\OneDrive\Masaüstü\Dersler\Projects\phone_directory_console_app\main.c(7,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\Arda\OneDrive\Masaüstü\Dersler\Projects\phone_directory_console_app\main.c(7,9): warning C4313: 'printf': biçim dizesindeki '%d', 1 bağımsız değişkeniyle (türü 'int *') çakışıyor
+C:\Users\Arda\OneDrive\Masaüstü\Dersler\Projects\phone_directory_console_app\main.c(9,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\Arda\OneDrive\Masaüstü\Dersler\Projects\phone_directory_console_app\main.c(9,9): warning C4313: 'printf': biçim dizesindeki '%d', 1 bağımsız değişkeniyle (türü 'int *') çakışıyor
+C:\Users\Arda\OneDrive\Masaüstü\Dersler\Projects\phone_directory_console_app\main.c(25,3): warning C4013: 'system' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\Arda\OneDrive\Masaüstü\Dersler\Projects\phone_directory_console_app\main.c(326,5): warning C4013: 'exit' tanımsız; int döndüren extern olduğu varsayılıyor
+  phone_directory_console_app.vcxproj -> C:\Users\Arda\OneDrive\Masaüstü\Dersler\Projects\phone_directory_console_app\x64\Debug\phone_directory_console_app.exe
